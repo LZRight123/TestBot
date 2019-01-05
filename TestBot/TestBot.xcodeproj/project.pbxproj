@@ -290,7 +290,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.jztb2b.supplier.staging;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jztb2b.supplier.staign;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +310,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.jztb2b.supplier.staging;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jztb2b.supplier.staign;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
